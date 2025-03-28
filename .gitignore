@@ -1,0 +1,10 @@
+.vscode/
+
+venv/
+.venv/
+.idea/
+__pycache__/
+/data/FashionMNIST/
+/runs/
+
+.DS_Store

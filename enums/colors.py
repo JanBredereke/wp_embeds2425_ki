@@ -1,0 +1,6 @@
+RED = '\033[91m'
+GREEN = '\033[92m'
+YELLOW = '\033[93m'
+BLACK = '\033[30m'
+CYAN = '\033[36m'
+COLOR_OFF = '\033[0m'
